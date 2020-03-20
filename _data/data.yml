@@ -67,12 +67,10 @@ experiences:
 projects:
     title: Game Jam Entries
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Game Jam's are what really brought me into game development and programming in general. My first jam I had only been programming for a couple months and was immediately hooked.
     assignments:
       - title: Ludum Dare 45 Celia's Lightmare 
-        link: <iframe src="https://itch.io/embed/497921" width="552" height="167" frameborder="0"><a href="https://overtechstudios.itch.io/celias-lightmare">Celia's Lightmare by Overtech Studios</a></iframe>
+       #link: <iframe src="https://itch.io/embed/497921" width="552" height="167" frameborder="0"><a href="https://overtechstudios.itch.io/celias-lightmare">Celia's Lightmare by Overtech Studios</a></iframe>
         tagline: "**Celia's Lightmare** was my most recent submission to Ludum Dare, placing 164th overall, based on the theme "Start With Nothing". 
         Our goal was a atmospheric shooter that had a fun gameplay loop. Each time you collect enough power from the enemies, you can respawn with a multiplier, 
         but lose everything else "Starting with Nothing". Each time you respawn the enemies get tougher. 
