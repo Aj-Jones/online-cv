@@ -70,7 +70,7 @@ projects:
         Current and previous projects.
     assignments:
       - title: Game Jam Entries
-        link: https://aj-jones.github.io/gamejam/
+        link: 'https://aj-jones.github.io/gamejam/'
         tagline: "Game Jams are what really brought me into game development and programming in general. My first jam I had only been programming for a couple months and was immediately hooked."
 
 skills:
