@@ -67,11 +67,11 @@ experiences:
 projects:
     title: Projects
     intro: >
-      
+        Current and previous projects.
     assignments:
       - title: Game Jam Entries
         link: https://aj-jones.github.io/gamejam/
-        tagline: Game Jam's are what really brought me into game development and programming in general. My first jam I had only been programming for a couple months and was immediately hooked.
+        tagline: "Game Jams are what really brought me into game development and programming in general. My first jam I had only been programming for a couple months and was immediately hooked."
 
 skills:
     title: Skills &amp; Proficiency
