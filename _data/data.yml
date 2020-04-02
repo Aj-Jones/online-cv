@@ -25,20 +25,20 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     interests:
-      - item: Music
+      - item: Music - Playing Guitar and yelling into microphones.
         link:
 
-      - item: Gaming
+      - item: First Person Shooters - Destiny 2, CS:GO, DOOM
         link:
 
-      - item: Game Development
+      - item: Game Development - Gameplay, Networking, Procedural Generation
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      United States Air Force Veteran studying Computer Science, highly motivated in continuing education and furthering knowledge. 
-      I enjoy working in challenging environments, and always look forward to bolstering technical breadth.
+      United States Air Force Veteran studying Computer Science, highly motivated in continuing education. 
+      I enjoy approaching challenges and look forward to bolstering my technical breadth in a team environment.
 education:
     - degree: BS in Computer Science
       university: California State University San Marcos
@@ -51,7 +51,7 @@ experiences:
       company: SkyReacher Entertainment
       details: |
         Developed and published updates for a live game, while developing core gameplay and strucutre of new project.
-          - Leading gameplay development for Dr. Seuss World in Roblox. Simultaneously learning new platform and language, while sucessfully building a licensed game.
+          - Leading gameplay development for Dr. Seuss World in Roblox. Simultaneously learned new platform and language, while sucessfully building a licensed game.
           - Developed and implemented system for IAP, ensuring customer purchases correctly awarded to players.
           - Implemented analytics to track player progression and montior for exploits.
           - Verified key functionality across iOS, Android, and Steam for Legendary DXP through independant testing and reviewing user submitted issues. 
@@ -71,20 +71,24 @@ projects:
     assignments:
       - title: Game Jam Entries
         link: 'https://aj-jones.github.io/gamejam'
-        tagline: "Game Jams are what really brought me into game development and programming in general. My first jam I had only been programming for a couple months and was immediately hooked."
+        tagline: "Game Jams are what launched my involvement into game development and programming in general. Before my first jam I had only been programming for a couple of months, I've been hooked ever since. "
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Unity and C#
-        level: 80%
+        details: |
+          Proficient in gameplay systems design. 
       - name: Unreal Engine 4 and C++
-        level: 60%
+        details: |
+          Comfortable developing in C++ and familiar with UE4 workflow.
       - name: Javascript & Node.js
-        level: 50%
-      - name: Git
-        level: 50%
+        details: |
+          Experience in developing server logic for a live service game utilzing Node.js
+      - name: Source Control
+        details: |
+          Familiar with source control and project management using Git and SVN.
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
